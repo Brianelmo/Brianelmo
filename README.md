@@ -8,7 +8,7 @@
 
 <br>
 
-- I am a Front End specialized programmer 💻
+- I am a Web Developer 💻
 - Passionate about technology since childhood
 - Trained in the ONE program by Oracle and self-taught
 - My portfolio [Portfolio](https://brianelmo.github.io/Portfolio-Brian-Elmo/)
