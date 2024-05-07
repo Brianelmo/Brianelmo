@@ -8,11 +8,11 @@
 
 <br>
 
-- Soy un programador espcializado en el Front End 💻
-- Apasionado por la tecnologia desde niño
-- Formado en el programa ONE de Oracle y siendo autodidacta
-- Mi portafolio [Portfolio](https://brianelmo.github.io/Portfolio-Brian-Elmo/)
-- Actualmente estoy en busca de un emepleo. [Linkedin](https://www.linkedin.com/in/nicolas-elmo/)
+- I am a Front End specialized programmer 💻
+- Passionate about technology since childhood
+- Trained in the ONE program by Oracle and self-taught
+- My portfolio [Portfolio](https://brianelmo.github.io/Portfolio-Brian-Elmo/)
+- Currently seeking employment. [Linkedin](https://www.linkedin.com/in/nicolas-elmo/)
 
 <br><br>
 
